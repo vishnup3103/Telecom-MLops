@@ -109,8 +109,4 @@ with open("metrics.json","w") as f:
 print("Training completed Successfully")
 
 
-# In[ ]:
-
-
-
-
+print ("Hello World")
